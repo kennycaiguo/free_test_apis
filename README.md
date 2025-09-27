@@ -41,6 +41,19 @@
 根据照片ID获取详情：http://jsonplaceholder.typicode.com/photos/8 <br>
 ## Httpbin: https://httpbin.org/
 
+##   Agify.io:  https://api.agify.io/?name=meelad
+
+## random dog pic : https://dog.ceo/api/breeds/image/random
+
+## 随机小幽默 : https://official-joke-api.appspot.com/random_joke
+
+## zipcode api usa: https://api.zippopotam.us/us/33162
+
+## RapidAPi : https://rapidapi.com/ 
+需要登录,用restgenwong@gmail.com正常了账号
+
+
+
 
 
 

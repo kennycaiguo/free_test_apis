@@ -1,6 +1,6 @@
 # free_test_apis
 收集网上一些免费使用的测试api接口
-前端需要的免费在线api接口: https://juejin.cn/post/7041461420818432030
+## 前端需要的免费在线api接口: https://juejin.cn/post/7041461420818432030
 ### 帖子接口：
 
 获取帖子列表：http://jsonplaceholder.typicode.com/posts <br>
@@ -39,4 +39,5 @@
 
 获取照片列表：http://jsonplaceholder.typicode.com/photos <br>
 根据照片ID获取详情：http://jsonplaceholder.typicode.com/photos/8 <br>
-
+## Httpbin: https://httpbin.org/
+## 山河API: https://api.shanhe.kim/

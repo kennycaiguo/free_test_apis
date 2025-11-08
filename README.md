@@ -1,3 +1,6 @@
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41MTGJW) <br>
+
 # free_test_apis
 收集网上一些免费使用的测试api接口
 ## 前端需要的免费在线api接口: https://juejin.cn/post/7041461420818432030
